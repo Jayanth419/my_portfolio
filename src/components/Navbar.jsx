@@ -48,7 +48,7 @@ const Navbar = () => {
             className="text-lg sm:text-xl font-bold gradient-text"
             aria-label="Go to Home"
           >
-            Portfolio
+            Jayanth
           </button>
 
           {/* Desktop nav */}

@@ -8,22 +8,21 @@ const About = () => {
         <h2 className="text-4xl font-bold mb-8 text-center">About Me</h2>
         <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-8">
           <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">
-            I'm a passionate frontend developer from Nellore, Andhra Pradesh,
-            specializing in creating beautiful and functional web applications.
-            My journey in web development has been focused on mastering modern
-            technologies and building real-world projects.
+            I’m a passionate Front-End Developer eager to start my career in web
+            development. I specialize in building clean, responsive, and
+            interactive user interfaces using HTML5, CSS3, JavaScript (ES6+),
+            React.js, and Tailwind CSS.
           </p>
           <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">
-            I have hands-on experience with React.js, Tailwind CSS, and
-            Supabase, building everything from e-commerce frontends to
-            full-stack expense tracking applications. I'm constantly learning
-            and improving my skills through practical projects and staying
-            up-to-date with the latest web development trends.
+            I enjoy turning design ideas into functional web applications and
+            continuously learning new technologies to improve my craft. I’ve
+            built several personal projects, including responsive websites and
+            single-page apps using React and Supabase. s.
           </p>
           <p className="text-lg text-gray-700 dark:text-gray-300">
-            When I'm not coding, I enjoy exploring new technologies,
-            contributing to open source, and sharing knowledge with the
-            developer community.
+            My goal is to contribute to a creative and growth-driven team where
+            I can apply my technical skills, problem-solving mindset, and
+            attention to detail to deliver great user experiences.
           </p>
         </div>
       </div>
