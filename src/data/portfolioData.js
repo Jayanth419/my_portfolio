@@ -11,7 +11,7 @@ export const skills = [
 
 export const projects = [
   {
-    title: "Expenses Tracking App",
+    title: "Expenses Tracker",
     description:
       "A full-featured expense tracker with multi-user authentication, built with React and Supabase backend.",
     tech: ["React", "Supabase", "Tailwind CSS"],
