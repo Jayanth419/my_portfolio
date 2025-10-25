@@ -14,7 +14,7 @@ export const projects = [
     title: "Expenses Tracking App",
     description:
       "A full-featured expense tracker with multi-user authentication, built with React and Supabase backend.",
-    tech: ["React", "Supabase", "Tailwind CSS", "SQL"],
+    tech: ["React", "Supabase", "Tailwind CSS"],
     features: [
       "User Authentication",
       "Real-time Updates",
@@ -28,7 +28,7 @@ export const projects = [
     title: "Recipe Explorer",
     description:
       "An interactive recipe discovery application featuring real-time search, category-based filtering, and detailed recipe cards with ingredients, instructions, and cooking times.",
-    tech: ["React", "JavaScript", "Tailwind CSS", "TheMealDB API"],
+    tech: ["JavaScript", "Bulma CSS", "Recipe API"],
     features: [
       "Real-time Recipe Search",
       "Category & Cuisine Filters",
