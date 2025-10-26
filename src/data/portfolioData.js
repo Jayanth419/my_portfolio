@@ -25,7 +25,7 @@ export const projects = [
     live: "https://expense-tracker-9qj1kauqq-jayanths-projects-1e0f0f77.vercel.app/",
   },
   {
-    title: "Recipe Explorer",
+    title: "Recipes  Explorer",
     description:
       "An interactive recipe discovery application featuring real-time search, category-based filtering, and detailed recipe cards with ingredients, instructions, and cooking times.",
     tech: ["JavaScript", "Bulma CSS", "Recipe API"],
@@ -54,4 +54,11 @@ export const projects = [
   },
 ];
 
-export const navItems = ["Home", "About", "Skills", "Projects", "Contact"];
+export const navItems = [
+  "Home",
+  "About",
+  "Skills",
+  "Projects",
+  "Contact",
+  "Resume",
+];

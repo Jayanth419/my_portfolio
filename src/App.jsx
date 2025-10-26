@@ -6,7 +6,7 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-
+// import Resume from "./components/Resume";
 function App() {
   const [activeSection, setActiveSection] = useState("home");
 
@@ -22,8 +22,10 @@ function App() {
     <div className="min-h-screen smooth-scroll">
       <Navbar activeSection={activeSection} scrollToSection={scrollToSection} />
       <Home scrollToSection={scrollToSection} />
+
       <About />
       <Skills />
+      {/* <Resume /> */}
       <Projects />
       <Contact />
       <Footer />
