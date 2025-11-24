@@ -1,6 +1,6 @@
 const App = ({ scrollToSection }) => {
   const resumeUrl =
-    "https://drive.google.com/file/d/1gFloA1QPc0JO7ZG_njcsiGXza_Qd2_au/view?usp=drive_link";
+    "https://drive.google.com/file/d/14LgvjArIr7WYmuJU7STqArnkU1Z-lswP/view?usp=sharing";
   return (
     <section id="home" className="pt-32 pb-20 px-6">
       <div className="max-w-4xl mx-auto text-center">
