@@ -17,7 +17,7 @@ const About = () => {
             I enjoy turning design ideas into functional web applications and
             continuously learning new technologies to improve my craft. I’ve
             built several personal projects, including responsive websites and
-            single-page apps using React and Supabase. s.
+            single-page apps using React and Supabase.
           </p>
           <p className="text-lg text-gray-700 dark:text-gray-300">
             My goal is to contribute to a creative and growth-driven team where
